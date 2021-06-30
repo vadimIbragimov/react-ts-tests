@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlankDiv component should mount BlankDiv component 1`] = `
+<BlankDiv>
+  <div
+    className="blank-div"
+  >
+    qwe
+  </div>
+</BlankDiv>
+`;
+
+exports[`BlankDiv component should render BlankDiv component 1`] = `
+<div
+  class="blank-div"
+>
+  qwe
+</div>
+`;
+
+exports[`BlankDiv component should slhallow BlankDiv component 1`] = `
+<div
+  className="blank-div"
+>
+  qwe
+</div>
+`;

@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlankDiv component should mount BlankDiv component 1`] = `
+<Spin>
+  <Spin
+    size="default"
+    spinning={true}
+    wrapperClassName=""
+  >
+    <div
+      className="ant-spin ant-spin-spinning"
+    >
+      <span
+        className="ant-spin-dot ant-spin-dot-spin"
+      >
+        <i
+          className="ant-spin-dot-item"
+        />
+        <i
+          className="ant-spin-dot-item"
+        />
+        <i
+          className="ant-spin-dot-item"
+        />
+        <i
+          className="ant-spin-dot-item"
+        />
+      </span>
+    </div>
+  </Spin>
+</Spin>
+`;
+
+exports[`BlankDiv component should render BlankDiv component 1`] = `
+<div
+  class="ant-spin ant-spin-spinning"
+>
+  <span
+    class="ant-spin-dot ant-spin-dot-spin"
+  >
+    <i
+      class="ant-spin-dot-item"
+    />
+    <i
+      class="ant-spin-dot-item"
+    />
+    <i
+      class="ant-spin-dot-item"
+    />
+    <i
+      class="ant-spin-dot-item"
+    />
+  </span>
+</div>
+`;
+
+exports[`BlankDiv component should slhallow BlankDiv component 1`] = `
+<Spin
+  size="default"
+  spinning={true}
+  wrapperClassName=""
+/>
+`;
